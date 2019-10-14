@@ -4,6 +4,8 @@ another change...
 ## 2019-10-14
 
 Changing for first exerc...
+=======
+Changing for first exercise...
 
 Commands learned so far:
 
@@ -12,3 +14,5 @@ Commands learned so far:
 - HEAD : this is something yada
 - checkout : yada
 add more commands that conflic with local file
+=======
+add more commands that conflict with local file
