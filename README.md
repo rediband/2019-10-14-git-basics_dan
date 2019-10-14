@@ -9,4 +9,5 @@ Commands learned so far:
 
 - init : initializes folder as a git repository
 - status : looks at the current status
-
+- HEAD : this is something yada
+- checkout : yada
